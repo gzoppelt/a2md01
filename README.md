@@ -4,10 +4,9 @@ Material Design with Angular 2 - first steps
 * npm init
 * npm install --save-dev gulp
 * gulpFile.js
-'''
-    test
+
+        test
   
-'''
 * npm install --save-dev gulp-uglify
 * npm install --save-dev gulp-ruby-sass
 * install ruby installer [for windows](http://rubyinstaller.org/downloads/)
