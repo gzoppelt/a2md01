@@ -1,3 +1,16 @@
 # a2md01
 Material Design with Angular 2 - first steps
-* credit: [https://github.com/urish/angular2-material-build.git](https://github.com/urish/angular2-material-build.git)
+* (sudo) npm install -g gulp
+* npm init
+* npm install --save-dev gulp
+* gulpFile.js
+'''
+    test
+  
+'''
+* npm install --save-dev gulp-uglify
+* npm install --save-dev gulp-ruby-sass
+* install ruby installer [for windows](http://rubyinstaller.org/downloads/)
+* restart pc
+* gem install sass
+
